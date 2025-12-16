@@ -126,7 +126,7 @@ export function RegisterPage({
         <div className="bg-white rounded-lg shadow-lg p-6 mb-4 border-t-4 border-[#FF9933]">
           <div className="flex items-center justify-center gap-4">
             <img
-              src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fnational-emblem-of-india&psig=AOvVaw0CoeLWYgc7qD8I-yAYIX9w&ust=1760467650047000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLD695vroZADFQAAAAAdAAAAABAJ"
+              src="https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg"
               alt="National Emblem"
               className="h-16 w-16 object-contain"
             />
