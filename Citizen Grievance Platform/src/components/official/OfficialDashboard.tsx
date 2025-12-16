@@ -99,7 +99,7 @@ export function OfficialDashboard({ user, onLogout }: OfficialDashboardProps) {
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
               <img 
-                src="https://images.unsplash.com/photo-1723078543178-2f40f94464d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxBc2hva2ElMjBjaGFrcmElMjBJbmRpYSUyMHN5bWJvbHxlbnwxfHx8fDE3NjAzODEzMDh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
+                src="https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg"
                 alt="National Emblem"
                 className="h-12 w-12 object-contain"
               />
