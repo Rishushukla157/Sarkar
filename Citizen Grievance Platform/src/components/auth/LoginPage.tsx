@@ -74,10 +74,10 @@ export function LoginPage({ onLogin, onRegister }: LoginPageProps) {
         <div className="bg-white rounded-lg shadow-lg p-8 mb-6 border-t-4 border-[#FF9933]">
           <div className="flex items-center justify-center gap-6 mb-6">
             <img 
-              src="https://images.unsplash.com/photo-1723078543178-2f40f94464d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxBc2hva2ElMjBjaGFrcmElMjBJbmRpYSUyMHN5bWJvbHxlbnwxfHx8fDE3NjAzODEzMDh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-              alt="National Emblem of India"
-              className="h-20 w-20 object-contain"
-            />
+    src="https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg"
+    alt="National Emblem of India"
+    className="h-20 w-20 object-contain"
+/>
             <div className="text-center">
               <h1 className="text-3xl text-[#000080] mb-1">भारत सरकार</h1>
               <h2 className="text-2xl text-gray-800 mb-1">Government of India</h2>
@@ -86,10 +86,10 @@ export function LoginPage({ onLogin, onRegister }: LoginPageProps) {
               <p className="text-gray-600">सत्यमेव जयते • Truth Alone Triumphs</p>
             </div>
             <img 
-              src="https://images.unsplash.com/photo-1723078543178-2f40f94464d6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxBc2hva2ElMjBjaGFrcmElMjBJbmRpYSUyMHN5bWJvbHxlbnwxfHx8fDE3NjAzODEzMDh8MA&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-              alt="National Emblem of India"
-              className="h-20 w-20 object-contain"
-            />
+    src="https://upload.wikimedia.org/wikipedia/commons/5/55/Emblem_of_India.svg"
+    alt="National Emblem of India"
+    className="h-20 w-20 object-contain"
+/>
           </div>
           <div className="text-center">
             <p className="text-gray-700">Transparent governance through accountability</p>
